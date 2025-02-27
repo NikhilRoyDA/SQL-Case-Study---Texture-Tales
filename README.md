@@ -1,1 +1,1 @@
-# SQL-Case-Study---Texture-Tales
+# SQL-Case-Study-Texture-Tales
