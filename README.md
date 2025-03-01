@@ -23,7 +23,7 @@ This project analyzes **sales data** for *Texture Tales Clothing Co.*, a trendy 
 
 ---
 
-## 📂 **Dataset Structure**  
+## 📂 **Dataset Structure**  - [Schema](https://github.com/NikhilRoyDA/SQL-CaseStudy-Texture-Tales/tree/main/Schema)
 | **Table**           | **Key Columns**                              |  
 |----------------------|---------------------------------------------|  
 | `sales`             | `prod_id`, `qty`, `price`, `discount`, `member`, `txn_id` |  
