@@ -33,7 +33,7 @@ This project analyzes **sales data** for *Texture Tales Clothing Co.*, a trendy 
 
 ---
 
-## 📈 **Key Insights & Results**  
+## 📈 **Key Insights & Results** -  [Click here)(https://github.com/NikhilRoyDA/SQL-CaseStudy-Texture-Tales/blob/main/Insights/Insights%20-%20Texture%20Tales.pdf)
 ### **1. Revenue & Sales Performance**  
 - **$1.2M** total revenue generated before discounts.  
 - **Top Product**: *TrailWalker Boots* ($128K revenue).  
